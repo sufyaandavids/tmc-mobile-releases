@@ -6,4 +6,4 @@ Free mobile trading journal for iPhone and Android. Install from Safari or Chrom
 
 This repository is the mobile release channel. ZIP assets archive the web build; normal users should use the installation link.
 
-[Windows desktop downloads](https://github.com/sufyaandavids/tmc-app-releases/releases/latest) are separate. Journals stay on each device and do not automatically sync. Mobile currently supports manual trades and file imports; live mobile broker connections are not included.
+[Windows desktop downloads](https://github.com/sufyaandavids/tmc-app-releases/releases/latest) are separate. Journals stay on each device and do not automatically sync. Mobile supports manual trades and read-only cTrader sync. TradingView trades require the same connected cTrader account. MT5 mobile sync is not included.
